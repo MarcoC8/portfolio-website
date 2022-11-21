@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+body {
+    font-family: 'Open Sans', serif;
+}
+
+h2 {
+    color: purple;
+    font-weight: bold;
+    font-size: 30px;
+}
+
